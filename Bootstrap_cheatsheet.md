@@ -5,7 +5,7 @@
 1. **This is the style link which you have to include in your index.html below the `title`**\
     `<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">`
 
-2. **This is the javascript link which you have to include in your index.html above the `</body`> tag.**\
+2. **This is the javascript link which you have to include in your index.html above the `</body>` tag.**\
     `<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>`
 
 3. **Table for commands**
@@ -26,14 +26,10 @@
 | p-3                    | padding of 3                     |                                                                    |
 | mx-auto                | margin-x_axis-auto               | to center the element                                              |
 | overflow-auto          | overflow: auto                   | brings a scroll bar if the content starts overflowing the box      |
-|                        |                                  |                                                                    |
-|                        |                                  |                                                                    |
-|                        |                                  |                                                                    |
-|                        |                                  |                                                                    |
-|                        |                                  |                                                                    |
-|                        |                                  |                                                                    |
+
 
 4. **Link for getting icons for free provided from bootstrap**
+
     - https://icons.getbootstrap.com/
     - Copy HTML
     - Paste the SVG right into your project's code.
