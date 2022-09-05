@@ -2,10 +2,10 @@
 
 ### Made by Aman Gupta
 
-1. **This is the style link which you have to include in your index.html below the `title`**
+1. **This is the style link which you have to include in your index.html below the `title`**\
     `<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">`
 
-2. **This is the javascript link which you have to include in your index.html above the `</body`> tag.**
+2. **This is the javascript link which you have to include in your index.html above the `</body`> tag.**\
     `<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>`
 
 3. **Table for commands**
